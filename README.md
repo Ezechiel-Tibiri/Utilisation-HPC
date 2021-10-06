@@ -6,7 +6,7 @@ Ce cours permet de s'initier à l'utilisation du cluster de calcul de l'Universi
 [Connaître les commandes de base sous Linux]()
 
 ## Programme
-* Introduction aux architecture cluster
+* Introduction aux architectures cluster
 * Découvrir l'ordonnanceur Slurm
 * Transfert de données sur le cluster
 * Utilisation en mode Interactif
