@@ -21,5 +21,5 @@ Après ce cours les participants seront capables de:
 
 ## Support de cours
 * Cours : [ici](https://github.com/Ezechiel-Tibiri/Utilisation-HPC/blob/main/HPC_Ouaga.pdf)
-* Exercices : [ici]()
+* Exercices : [ici](https://github.com/Ezechiel-Tibiri/Utilisation-HPC/blob/main/hpc.md)
 * Commandes de base Slurm : [ici]()
