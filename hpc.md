@@ -4,7 +4,7 @@
 * [filezilla](https://filezilla-project.org/)
 Transférer des fichiers depuis votre ordinateur vers des serveurs Linux et inversement avec SFTP (SSH File Transfer Protocol)
 
-###Exercice 1: Se connecter à un serveur Linux avec `ssh`
+### Exercice 1: Se connecter à un serveur Linux avec `ssh`
 * 1. taper votre identifiant (username) et le l'adresse IP `165.16.215.34`
 ```
 ssh tibionez@165.16.215.34
