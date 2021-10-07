@@ -11,7 +11,7 @@ ssh tibionez@165.16.215.34
 ```
 * 2. Dans le champ, entrer le mot de passe ****** quand il est demandé. 
 * 3. Taper la commande `sinfo` et commenter le resultat
-* 4. Taper la commande `scontrol shown nodes` et commenter le resultat
+* 4. Taper la commande `scontrol show nodes` et commenter le resultat
 
 ### Exercice 2: Reserver un coeur sur le noeud de calcul et créer son répertoire de travail
 * 1. Taper la commande `squeue` et commenter le résultat
