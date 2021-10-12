@@ -69,7 +69,7 @@ bwa mem reference.fasta RC1_1_CUTADAPT_forwardRepaired.fastq RC1_2_CUTADAPT_reve
 * 1. En utilisant `scp`, transférer vos résultatx depuis votre `/tmp/username` vers votre `/home/username`
 * 2. Vérifier que le transfert est OK avec la commande `ls`
 
-###Exercice 8: Supprimer vos répertoires de données d’analyse
+### Exercice 8: Supprimer vos répertoires de données d’analyse
 ```
  cd /tmp
 rm -r exo_username
