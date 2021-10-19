@@ -23,3 +23,8 @@ Après ce cours les participants seront capables de:
 * Cours : [ici](https://github.com/Ezechiel-Tibiri/Utilisation-HPC/blob/main/HPC_Ouaga.pdf)
 * Exercices : [ici](https://github.com/Ezechiel-Tibiri/Utilisation-HPC/blob/main/hpc.md)
 * Commandes de base Slurm : [ici]()
+
+# Introduction à R
+* Présentation à télécharger [ici]()
+* Support du cours à télécharger [ici]()
+* Support pour les exercices à télécharger [ici]()
