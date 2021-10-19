@@ -25,6 +25,6 @@ Après ce cours les participants seront capables de:
 * Commandes de base Slurm : [ici]()
 
 # Introduction à R
-* Présentation à télécharger [ici]()
-* Support du cours à télécharger [ici]()
-* Support pour les exercices à télécharger [ici]()
+* Présentation à télécharger [ici](https://github.com/Ezechiel-Tibiri/Utilisation-HPC/blob/main/Intro_logiciel_R_diapo.pdf)
+* Support du cours à télécharger [ici](https://github.com/Ezechiel-Tibiri/Utilisation-HPC/blob/main/R_intro.pdf)
+* Support pour les exercices à télécharger [ici](https://github.com/Ezechiel-Tibiri/Utilisation-HPC/blob/main/smp.csv)
